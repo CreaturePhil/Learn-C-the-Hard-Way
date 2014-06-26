@@ -6,6 +6,7 @@ all:
 	make ex5
 	make ex6
 	make ex7
+	make ex8
 
 clean:
 	rm -f ex1
@@ -13,3 +14,4 @@ clean:
 	rm -f ex5
 	rm -f ex6
 	rm -f ex7
+	rm -f ex8
